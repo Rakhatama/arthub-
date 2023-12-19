@@ -1,0 +1,115 @@
+* {
+    font-family: 'Nunito';
+}
+
+.navbar{
+    background-color: #005A8003 ;
+    border-color: #005A80;
+}
+
+.navbar-brand{
+    font-size: 1rem;
+    color: #005A80;
+}
+
+.nav-link{
+    color: #005A80;
+}
+
+.search{
+    width: 100%;
+}
+
+.icons{
+    color: #005A80; 
+    margin: 5px;
+}
+
+.profile-link{
+    color: #005A80;
+}
+
+.footer{
+    background-color: #005A800D;
+}
+
+.endfoot{
+    background-color: #005A80;
+    height: 25px;
+}
+
+.heading{
+   font-size: small;
+   font-weight: bold;
+   color: #005A80;
+}
+
+a{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: regular;
+    color: #005A80;
+    text-decoration: none;
+}
+  
+.pay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    flex-direction: column;
+    padding: 50px;
+    font-size: small;
+}
+
+.MyProfile{
+    margin-left: 50px;
+
+}
+
+.profile-text{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.home-title{
+    font-size: 4rem;
+    font-weight: bold;
+    color: #005A80;
+}
+
+.carousel-item{
+    max-height: 300px;
+}
+
+.about-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutus{
+    color: #005A80;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+}
